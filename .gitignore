@@ -1,5 +1,10 @@
+# IDEs, editors, and OS
 .vscode
 .idea
 .DS_Store
 
+# Dependencies
 node_modules/
+
+# Test coverage
+coverage/
