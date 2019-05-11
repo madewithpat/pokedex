@@ -1,7 +1,7 @@
 {
    "name": "pokedex",
    "version": "1.0.0",
-   "description": "",
+   "description": "A simple pokedex project",
    "main": "index.js",
    "scripts": {
       "test": "jest --watch",
@@ -13,7 +13,7 @@
       "url": "git+https://github.com/poutler/pokedex.git"
    },
    "keywords": [],
-   "author": "",
+   "author": "Patrick Outler",
    "license": "ISC",
    "bugs": {
       "url": "https://github.com/poutler/pokedex/issues"
